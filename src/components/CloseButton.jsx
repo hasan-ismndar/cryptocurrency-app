@@ -12,6 +12,7 @@ const CloseButton = ({ click }) => {
     >
       <IoCloseSharp />
     </button>
+
   );
 };
 
